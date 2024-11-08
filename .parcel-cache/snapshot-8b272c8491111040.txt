@@ -25,7 +25,7 @@
 154D:\annu all vs documents\real projects\Redux practice 2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133753598697802687 0
 92D:\annu all vs documents\real projects\Redux practice 2\node_modules\csso\lib\replace\atrule133753598634402112 1
 100D:\annu all vs documents\real projects\Redux practice 2\node_modules\caniuse-lite\data\regions\RU.js133753598944149515 0
-60D:\annu all vs documents\real projects\Redux practice 2\dist133754407022213209 1
+60D:\annu all vs documents\real projects\Redux practice 2\dist133755260101204754 1
 119D:\annu all vs documents\real projects\Redux practice 2\node_modules\posthtml\node_modules\posthtml-parser\package.json133753598303880631 0
 66D:\annu all vs documents\real projects\Redux practice 2\index.html133753609164346989 0
 81D:\annu all vs documents\real projects\Redux practice 2\node_modules\svgo\LICENSE133753597995186463 0
@@ -46,7 +46,7 @@
 103D:\annu all vs documents\real projects\Redux practice 2\node_modules\lines-and-columns\build\index.d.ts133753598182688784 0
 94D:\annu all vs documents\real projects\Redux practice 2\node_modules\svgo\plugins\prefixIds.js133753598613392134 0
 90D:\annu all vs documents\real projects\Redux practice 2\node_modules\msgpackr\package.json133753598479015708 0
-65D:\annu all vs documents\real projects\Redux practice 2\script.js133754407020222209 0
+65D:\annu all vs documents\real projects\Redux practice 2\script.js133755260075216194 0
 124D:\annu all vs documents\real projects\Redux practice 2\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133753598425766192 0
 102D:\annu all vs documents\real projects\Redux practice 2\node_modules\csso\lib\replace\property\font.js133753598627303492 0
 110D:\annu all vs documents\real projects\Redux practice 2\node_modules\csso\node_modules\mdn-data\css\units.json133753598485881425 0
@@ -910,7 +910,7 @@
 94D:\annu all vs documents\real projects\Redux practice 2\node_modules\css-select\lib\compile.js133753598278045592 0
 114D:\annu all vs documents\real projects\Redux practice 2\node_modules\posthtml\node_modules\posthtml-parser\license133753598192679450 0
 89D:\annu all vs documents\real projects\Redux practice 2\node_modules\stable\stable.min.js133753598178981092 0
-71D:\annu all vs documents\real projects\Redux practice 2\dist\index.html133754407022063292 0
+71D:\annu all vs documents\real projects\Redux practice 2\dist\index.html133755260101194764 0
 89D:\annu all vs documents\real projects\Redux practice 2\node_modules\is-extglob\README.md133753598009008671 0
 89D:\annu all vs documents\real projects\Redux practice 2\node_modules\term-size\index.d.ts133753598344840959 0
 100D:\annu all vs documents\real projects\Redux practice 2\node_modules\semver\ranges\max-satisfying.js133753598442490424 0
@@ -2343,7 +2343,7 @@
 108D:\annu all vs documents\real projects\Redux practice 2\node_modules\htmlparser2\lib\WritableStream.d.ts.map133753598357256954 0
 92D:\annu all vs documents\real projects\Redux practice 2\node_modules\css-select\package.json133753598451420695 0
 90D:\annu all vs documents\real projects\Redux practice 2\node_modules\htmlnano\CHANGELOG.md133753598634432091 0
-82D:\annu all vs documents\real projects\Redux practice 2\dist\index.8cfc62b9.js.map133754407022203216 0
+82D:\annu all vs documents\real projects\Redux practice 2\dist\index.8cfc62b9.js.map133755260100395258 0
 81D:\annu all vs documents\real projects\Redux practice 2\node_modules\entities\lib133753598463605585 1
 82D:\annu all vs documents\real projects\Redux practice 2\node_modules\htmlnano\docs133753598692945703 1
 118D:\annu all vs documents\real projects\Redux practice 2\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs133753598655558980 0
@@ -5915,4 +5915,4 @@
 82D:\annu all vs documents\real projects\Redux practice 2\node_modules\.bin\svgo.ps1133753599223679466 0
 100D:\annu all vs documents\real projects\Redux practice 2\node_modules\.bin\update-browserslist-db.cmd133753599223739455 0
 100D:\annu all vs documents\real projects\Redux practice 2\node_modules\.bin\update-browserslist-db.ps1133753599223739455 0
-78D:\annu all vs documents\real projects\Redux practice 2\dist\index.8cfc62b9.js133754407022163238 0
+78D:\annu all vs documents\real projects\Redux practice 2\dist\index.8cfc62b9.js133755260100305320 0
